@@ -7,4 +7,3 @@ Pasos
 - cd sistema_db
 - composer install
 - npm i && npm run dev
-Saludos !!
